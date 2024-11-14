@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: beckground
+    uniqueID: 1525582383
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
